@@ -15,9 +15,9 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi-soni&show_icons=true&locale=en" alt="abhi-soni" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=abhi-soni&show_icons=true&locale=en" alt="abhi-soni" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-soni&show_icons=true&locale=en&layout=compact" alt="abhi-soni" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-soni&show_icons=true&locale=en&layout=compact" alt="abhi-soni" /></p>
+<p></p>
 
 <br>
 
